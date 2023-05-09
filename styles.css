@@ -13,7 +13,7 @@ body .container {
   grid-template-rows: repeat(2, 13rem);
   row-gap: 10px;
   -moz-column-gap: 10px;
-       column-gap: 10px;
+  column-gap: 10px;
   box-sizing: border-box;
 }
 body .container div {
@@ -42,7 +42,7 @@ body .container .item_1 .sec_2 .elem {
 }
 body .container .item_1 .sec_2 h4,
 body .container .item_1 .sec_2 p {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 body .container .item_1 .sec_2 p {
   color: aliceblue;
@@ -56,7 +56,7 @@ body .container .item_1 .sec_1 {
 }
 body .container .item_1 .sec_1 h4,
 body .container .item_1 .sec_1 h2 {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-transform: capitalize;
 }
 body .container .item_1 .sec_1 h2 {
@@ -113,17 +113,17 @@ body .container .item {
   padding-left: 1rem;
 }
 .sec_desc h2 {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2rem;
   font-weight: 200;
 }
 .sec_desc h4 {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 600;
   text-transform: capitalize;
 }
 .sec_desc h5 {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .headers {
@@ -135,4 +135,4 @@ body .container .item {
 }
 .headers svg {
   padding-left: 3rem;
-}/*# sourceMappingURL=styles.css.map */
+} /*# sourceMappingURL=styles.css.map */
